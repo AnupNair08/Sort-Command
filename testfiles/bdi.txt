@@ -1,0 +1,13 @@
+                    This is an example test -b option
+   it ignores leading blanks
+and sorts the file accordingly
+          also it maintains a byte wise order  
+many versions of this project were created
+      look at the output now
+   Many people refer to books as well as online material
+ !there is an exclamation mark in this sentence     		 
+                                        Pikachu is a pokemon
+            Raichu is its evolved form                         
+        Say that there is a new type of super computer
+     1.Google discovered quantum supremacy
+     44.IBM disagrees          

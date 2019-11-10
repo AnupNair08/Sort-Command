@@ -1,0 +1,2 @@
+this is a file with full stop.But this will test -t option.hello.
+Good morning.today is 7 november.

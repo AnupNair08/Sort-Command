@@ -1,0 +1,7 @@
+	hello
+		tab2
+		  space3
+	nothing is typed on this line		  
+Typically I have given a line break
+		!lol 	
+		            data structures and algorithms
