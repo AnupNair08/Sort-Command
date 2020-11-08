@@ -1,27 +1,38 @@
 # Sort Command
 
 ## This is a C program to simulate the Linux Sort Command and it works on the External Merge Sort Algorithm.
+
 ## Primary use cases include sorting of files beyond the primary memory and additional options to sort based on order.
 
 ### Functioning of the algorithm
+
 1. Reads an input file from the user and splits into smaller parts readable in the main memory.
 2. Uses Merge Sort for sorting the smaller parts and store them on the secondary memory.
 3. Run the merging of the sorted files and combine the output into a single file.
 
-
 ### To run this project
-``` Clone the repository ```
+
+`Clone the repository`
 
 ```
-#Build the project 
-make 
+#Build the project
+make
 
 #Run the program
-Run ./a.out [option] filename [filename] 
+Run ./a.out [option] filename [filename]
 ```
 
 ## Usage
-``` ./a.out [option] filename [filename] ```
+
+```This program can be built and run using autotools
+    Run the following commands to get started with the tool
+
+    ./configure
+    make
+    sudo make install
+
+    cd src && ./mysort.o filename [options]
+```
 
 ## Options available
 
@@ -46,6 +57,6 @@ Run ./a.out [option] filename [filename]
 
 -i Sort by ignoring non printable characters
 
--k Sorts by the . delimiter 
+-k Sorts by the . delimiter
 
 ```

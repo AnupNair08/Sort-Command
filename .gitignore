@@ -1,0 +1,13 @@
+config.log
+config.status
+Makefile
+Makefile.in
+aclocal.m4
+mysort-1.50
+autom4te.cache
+src/extsort.o
+src/mysort.o
+src/sort.o
+src/.deps
+src/Makefile.in
+
